@@ -49,17 +49,13 @@ social-network-analysis-peer-support/
 │
 ├── README.md
 ├── scripts/
-│   └── sna_analysis_demo.R
+│   └── sna_demo_simplified.R
+
 │
 ├── data/
-│   ├── synthetic_edges_academic.csv
-│   ├── synthetic_edges_non_academic.csv
-│   └── README.md
-│
-├── figures/
-│   ├── network_visualization.png
-│   ├── degree_centrality_plot.png
-│   └── clique_example.png
+│   ├── synthetic_vertices.csv
+│   ├── synthetic_edges_academic_raw.csv
+│   └── synthetic_edges_nonacademic_raw.csv
 │
 └── portfolio/
     └── sna_project_portfolio.pdf
