@@ -45,7 +45,7 @@ The analytical workflow included:
 ## Repository Structure
 
 ```text
-sna-peer-support-demo/
+social-network-analysis-peer-support/
 │
 ├── README.md
 ├── scripts/
