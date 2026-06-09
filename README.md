@@ -45,23 +45,24 @@ The analytical workflow included:
 ## Repository Structure
 
 ```text
-social-network-analysis-peer-support/
+sna-peer-support-demo/
 │
 ├── README.md
-├── portfolio/
-│   └── sna_research_portfolio.pdf
-│
 ├── scripts/
-│   └── sna_demo.R
+│   └── sna_analysis_demo.R
 │
 ├── data/
-│   └── synthetic_edges.csv
+│   ├── synthetic_edges_academic.csv
+│   ├── synthetic_edges_non_academic.csv
+│   └── README.md
 │
 ├── figures/
-│   ├── sample_network.png
-│   └── centrality_plot.png
+│   ├── network_visualization.png
+│   ├── degree_centrality_plot.png
+│   └── clique_example.png
 │
-└── .gitignore
+└── portfolio/
+    └── sna_project_portfolio.pdf
 ```
 
 ## Ethical Note
